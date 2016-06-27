@@ -1,0 +1,14 @@
+---------------------
+Projet 01_SpringMVC
+---------------------
+
+
+1 - creation du projet
+
+2 - ajout des jar spring + hibernate + driver mysql
+
+3 - config de l'appli dans le web.xml
+	3.1 - declaration de la servlet de spring
+	3.2 - declaration de l'emplacement des fichiers de définition des beans de spring
+	
+4 - Ajout du fichier de définition du bean Datasource : employe-datasource.xml
